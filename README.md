@@ -9,8 +9,7 @@ Documentation
 
 ---
 
-<img src="https://github.com/TobiasNetzer/CurrentSenseAmplifier/raw/main/Documentation/Render%20Top.png" width=400>
-<img src="https://github.com/TobiasNetzer/CurrentSenseAmplifier/raw/main/Documentation/Render%20Bot.png" width=400>
+<img src="https://github.com/TobiasNetzer/CurrentSenseAmplifier/raw/main/Documentation/Render-Both.png">
 
 ---
 
