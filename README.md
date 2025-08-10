@@ -15,6 +15,8 @@ Documentation
 
 ## Amplifier Accuracy
 
+To test the accuracy of the current sense amplifier, various load currents are applied, and the amplifier’s output is compared to the corresponding load currents. The measurement error is then calculated and plotted as the deviation in percent from the actual value.
+
 Across the tested current range form 5mA - 100mA, the error remained within ±0.2%.
 
 <img src="https://github.com/TobiasNetzer/CurrentSenseAmplifier/raw/main/Documentation/Accuracy-Diagram.png">
